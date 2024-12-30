@@ -4,7 +4,7 @@ import urllib.parse
 import requests
 
 # Defina sua chave de API do Asaas e o URL
-ASAAS_API_KEY = 'sua_chave_de_api_asaas'
+ASAAS_API_KEY = '$aact_MzkwODA2MWY2OGM3MWRlMDU2NWM3MzJlNzZmNGZhZGY6OjliOGNlMGVhLTI5MWYtNDQyOC04MGNjLWU2M2YyZjczOTM3Mzo6JGFhY2hfZTU3YTEzZmEtNWVhZC00ZWQyLWI4ZjYtNmYwZDJhMTg0ZWVh'
 ASAAS_URL = 'https://www.asaas.com/api/v3/customers'
 
 class RequestHandler(BaseHTTPRequestHandler):
